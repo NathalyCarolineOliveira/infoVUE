@@ -1,12 +1,12 @@
 <script setup>
 import { ref } from 'vue';
 
-    const nome = 'Gustavo'
+    const nome = 'Nathaly'
     const idade = 16
     const contador = ref(0)
     const informações = 'Informações do usuário'
-    const email = 'gustavo.kruger1601@gmail.com'
-    const número = 4792595186
+    const email = 'nathalycarolineadaoo@gmail.com'
+    const número = 4791422026
     
 
     function inverter(texto) {
